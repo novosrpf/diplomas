@@ -1,2 +1,2 @@
 # diplomas
-Aplicacion para diplomas
+Aplicacion para Diplomas
